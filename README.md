@@ -6,6 +6,10 @@ Data Analysis Of Afc Asian cup 2023
 - [Data Sources](#data-sources)
 - [Tools & Technologies](#tools&technologies)
 - [Key Insights](#key-insights)
+## Project Overview
+The primary goal of this project is to analyze and visualize the key statistics and insights from the AFC Asian Cup 2023 using Excel for data preparation and Power BI for interactive and dynamic data visualization.Provide stakeholders, fans, and analysts with a detailed and visually appealing overview of the AFC Asian Cup 2023.Enable data-driven decision-making for teams, coaches, and tournament organizers.
+Enhance the overall understanding of the tournament dynamics and highlight standout performances.
+
 
 ## LIVE DASHBOARD
 https://www.novypro.com/project/afc-asian-cup-2023-qatar
@@ -13,8 +17,8 @@ https://www.novypro.com/project/afc-asian-cup-2023-qatar
 ## Data Sources
 https://fbref.com/en/comps/664/2024/2024-league-Stats
 ## Tools & Technologies
-1. Excel:- Data Cleaning
-2. Power Bi:- Data Visualisation
+1. Excel:-  For data cleaning, transformation, and initial analysis.
+2. Power Bi:-For creating interactive dashboards and visualizations.
 ## Key insights 
 1. 'FW' has noticeably more SoT/90.
 2. 'FW' and 'MF' have noticeably more SoT.
