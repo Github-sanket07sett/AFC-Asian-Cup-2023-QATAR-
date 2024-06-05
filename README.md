@@ -12,7 +12,7 @@ Enhance the overall understanding of the tournament dynamics and highlight stand
 
 
 ## LIVE DASHBOARD
-https://www.novypro.com/project/afc-asian-cup-2023-qatar
+https://app.powerbi.com/view?r=eyJrIjoiODg0YjRhYzAtYTE0MS00NmRhLThkZjktMTJkNWVkYzdkYmFjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true
 
 ![Screenshot 2024-03-02 210111](https://github.com/Github-sanket07sett/AFC-Asian-Cup-2023-QATAR-/assets/137095374/ee92189b-016f-40e4-90b7-dead0f40226a)
 
